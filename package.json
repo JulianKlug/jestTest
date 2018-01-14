@@ -37,12 +37,7 @@
     "request": "^2.81.0",
     "socket.io": "^1.5.0",
     "stream-to-promise": "^2.2.0",
-    "url": "^0.11.0",
-    "uws": "^0.14.5",
-    "websocket": "^1.0.23",
-    "websocket-client": "^1.0.0",
-    "xxhashjs": "^0.2.1",
-    "zerorpc": "^0.9.7"
+    "url": "^0.11.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
